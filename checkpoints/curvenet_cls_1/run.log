@@ -1,0 +1,253 @@
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 1846
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 9572
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 6091
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 4388
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 8345
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 14
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 541
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 4666
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Train 0, loss: 0.147382
+Test 0, loss: 0.096669
+best: 1000000.000
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 3576
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 3350
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Train 0, loss: 0.147406
+Test 0, loss: 0.106451
+best: 262.720
+Train 1, loss: 0.138007
+Test 1, loss: 0.099557
+best: 245.707
+Train 2, loss: 0.133705
+Test 2, loss: 0.099573
+best: 245.707
+Train 3, loss: 0.129736
+Test 3, loss: 0.097332
+best: 240.216
+Train 4, loss: 0.128768
+Test 4, loss: 0.091927
+best: 226.875
+Train 5, loss: 0.123229
+Test 5, loss: 0.088512
+best: 218.447
+Train 6, loss: 0.123971
+Test 6, loss: 0.083898
+best: 207.059
+Train 7, loss: 0.119428
+Test 7, loss: 0.081221
+best: 200.454
+Train 8, loss: 0.120124
+Test 8, loss: 0.081704
+best: 200.454
+Train 9, loss: 0.117380
+Test 9, loss: 0.080383
+best: 198.384
+Train 10, loss: 0.114009
+Test 10, loss: 0.082184
+best: 198.384
+Train 11, loss: 0.116801
+Test 11, loss: 0.075962
+best: 187.474
+Train 12, loss: 0.116969
+Test 12, loss: 0.085808
+best: 187.474
+Train 13, loss: 0.110524
+Test 13, loss: 0.077251
+best: 187.474
+Train 14, loss: 0.109350
+Test 14, loss: 0.073481
+best: 181.352
+Train 15, loss: 0.105418
+Test 15, loss: 0.081856
+best: 181.352
+Train 16, loss: 0.110165
+Test 16, loss: 0.072396
+best: 178.672
+Train 17, loss: 0.108554
+Test 17, loss: 0.069377
+best: 171.224
+Train 18, loss: 0.107987
+Test 18, loss: 0.072256
+best: 171.224
+Train 19, loss: 0.104045
+Test 19, loss: 0.068502
+best: 169.062
+Train 20, loss: 0.103665
+Test 20, loss: 0.070940
+best: 169.062
+Train 21, loss: 0.101582
+Test 21, loss: 0.062470
+best: 154.176
+Train 22, loss: 0.099253
+Test 22, loss: 0.058436
+best: 144.220
+Train 23, loss: 0.097530
+Test 23, loss: 0.063792
+best: 144.220
+Train 24, loss: 0.095331
+Test 24, loss: 0.065497
+best: 144.220
+Train 25, loss: 0.094516
+Test 25, loss: 0.058291
+best: 143.862
+Train 26, loss: 0.092670
+Test 26, loss: 0.061499
+best: 143.862
+Train 27, loss: 0.087554
+Test 27, loss: 0.062177
+best: 143.862
+Train 28, loss: 0.089525
+Test 28, loss: 0.056972
+best: 140.606
+Train 29, loss: 0.083966
+Test 29, loss: 0.057317
+best: 140.606
+Train 30, loss: 0.086234
+Test 30, loss: 0.061075
+best: 140.606
+Train 31, loss: 0.084284
+Test 31, loss: 0.054371
+best: 134.189
+Train 32, loss: 0.083143
+Test 32, loss: 0.054805
+best: 134.189
+Train 33, loss: 0.082957
+Test 33, loss: 0.057377
+best: 134.189
+Train 34, loss: 0.080747
+Test 34, loss: 0.054938
+best: 134.189
+Train 35, loss: 0.084298
+Test 35, loss: 0.052597
+best: 129.809
+Train 36, loss: 0.081784
+Test 36, loss: 0.050900
+best: 125.622
+Train 37, loss: 0.081903
+Test 37, loss: 0.051957
+best: 125.622
+Train 38, loss: 0.082552
+Test 38, loss: 0.048666
+best: 120.109
+Train 39, loss: 0.082552
+Test 39, loss: 0.048604
+best: 119.956
+Train 40, loss: 0.078755
+Test 40, loss: 0.050704
+best: 119.956
+Train 41, loss: 0.080331
+Test 41, loss: 0.052872
+best: 119.956
+Train 42, loss: 0.081731
+Test 42, loss: 0.055731
+best: 119.956
+Train 43, loss: 0.078576
+Test 43, loss: 0.049786
+best: 119.956
+Train 44, loss: 0.079050
+Test 44, loss: 0.050919
+best: 119.956
+Train 45, loss: 0.077959
+Test 45, loss: 0.058820
+best: 119.956
+Train 46, loss: 0.079969
+Test 46, loss: 0.052826
+best: 119.956
+Train 47, loss: 0.077220
+Test 47, loss: 0.053164
+best: 119.956
+Train 48, loss: 0.077110
+Test 48, loss: 0.052788
+best: 119.956
+Train 49, loss: 0.077860
+Test 49, loss: 0.047316
+best: 116.777
+Train 50, loss: 0.078698
+Test 50, loss: 0.051375
+best: 116.777
+Train 51, loss: 0.076949
+Test 51, loss: 0.047295
+best: 116.724
+Train 52, loss: 0.076135
+Test 52, loss: 0.049537
+best: 116.724
+Train 53, loss: 0.075842
+Test 53, loss: 0.046228
+best: 114.091
+Train 54, loss: 0.075050
+Test 54, loss: 0.051182
+best: 114.091
+Train 55, loss: 0.078229
+Test 55, loss: 0.051658
+best: 114.091
+Train 56, loss: 0.075295
+Test 56, loss: 0.050722
+best: 114.091
+Train 57, loss: 0.077155
+Test 57, loss: 0.049221
+best: 114.091
+Train 58, loss: 0.078684
+Test 58, loss: 0.046772
+best: 114.091
+Train 59, loss: 0.077726
+Test 59, loss: 0.052940
+best: 114.091
+Train 60, loss: 0.077591
+Test 60, loss: 0.048064
+best: 114.091
+Train 61, loss: 0.079862
+Test 61, loss: 0.045892
+best: 113.261
+Train 62, loss: 0.076404
+Test 62, loss: 0.049572
+best: 113.261
+Train 63, loss: 0.078456
+Test 63, loss: 0.046105
+best: 113.261
+Namespace(exp_name='curvenet_cls_1', dataset='modelnet40', batch_size=64, test_batch_size=16, epochs=200, use_sgd=True, lr=0.001, momentum=0.9, scheduler='cos', no_cuda=False, eval=False, num_points=1024, model_path='')
+random seed is: 828
+Using GPU : 0 from 1 devices
+Let's use1GPUs!
+Use SGD
+Train 0, loss: 0.125324
+Test 0, loss: 0.077439
+best: 191.120
